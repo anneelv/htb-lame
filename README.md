@@ -1,6 +1,6 @@
 # HTB - Lame Write Up
 
-## Enuemrate Open Ports
+## Enumerate Open Ports
 Run the following command to scan for open ports and services:
 
 ```
@@ -76,7 +76,7 @@ Note:
 Successfully opened a shell to the target!
 
 ## Getting User and Root Flags
-Current user and position:
+Current user and position:\
 ![whoami](./images/whoami.png)
 
 Flags position:
